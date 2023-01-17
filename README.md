@@ -1,1 +1,1 @@
-# NAMANGANLIKLAR24 Figmadan dizayni orqali HTML/CSS yordamida amalga oshirildi
+# NAMANGANLIKLAR24 Figma.com orqali HTML/CSS yordamida amalga oshirildi
